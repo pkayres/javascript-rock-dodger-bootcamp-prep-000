@@ -179,7 +179,7 @@ function moveDodgerRight() {
    * This function should move DODGER to the right
    * (mabye 4 pixels?). Use window.requestAnimationFrame()!
    */
-   var leftNumbers = dodger.style.left
+   var left = dodger.style.left
   //  var left = parseInt(leftNumbers, 10)
 
    if (left > left) {
